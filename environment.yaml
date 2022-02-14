@@ -1,0 +1,7 @@
+name: airflow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - apache-airflow=2.2.*
+  - pip
